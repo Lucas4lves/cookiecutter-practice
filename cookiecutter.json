@@ -2,5 +2,7 @@
     "project_name": "",
     "bucket_name" : "",
     "bucket_tf_key": "",
-    "aws_region" : ""
+    "aws_region" : "",
+    "ecr_repo_name": "",
+    "dev_env_tag": ""
 }
