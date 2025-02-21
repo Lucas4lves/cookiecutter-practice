@@ -1,4 +1,5 @@
 {
+    "project_name": "",
     "bucket_name" : "",
     "bucket_tf_key": "",
     "aws_region" : ""
